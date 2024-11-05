@@ -1,0 +1,1 @@
+print("internetim kötü daha iyisi olur inşallah");
